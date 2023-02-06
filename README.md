@@ -2,28 +2,18 @@
 
 ## 下载项目
 ```
-git clone 
+git clone https://github.com/zxcvbnm456821379/v2musicmobile.git
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包项目
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 目前实现了首页渲染（还有一处bug没改），热歌榜和搜索模块还在开发中。。。。
+> 技术栈 ： v2、axios、vue-router 纯练手项目没有用ui组件库.
