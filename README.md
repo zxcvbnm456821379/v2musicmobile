@@ -1,8 +1,8 @@
-# default
+# v2网易云移动端
 
-## Project setup
+## 下载项目
 ```
-npm install
+git clone 
 ```
 
 ### Compiles and hot-reloads for development
